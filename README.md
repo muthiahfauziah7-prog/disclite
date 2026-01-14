@@ -23,8 +23,8 @@
 | Login | Register | Home | Create |
 | ![Login](login.jpeg) | ![Register](register.jpeg) | ![Home](home.jpeg) | ![Add](add.jpeg) |
 
-| Edit/Update | Profil | Notifikasi |
-| ![Edit/Update](update_edit_delete.jpeg) |![profil](profil.jpeg) | 
+| Edit_update_delete | Profil |
+| ![Edit_update_delete](update_edit_delete.jpeg) |![profil](profil.jpeg) | 
 
 ## Cara Menjalankan Aplikasi
 1. Clone repository ini melalui terminal: git clone https://github.com/muthiahfauziah7-prog/disclite.git
