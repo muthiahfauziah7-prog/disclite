@@ -23,7 +23,7 @@
 | Login | Register | Home | Create |
 | ![Login](login.jpeg) | ![Register](register.jpeg) | ![Home](home.jpeg) | ![Add](add.jpeg) |
 
-| Edit_update_delete | Profil |
+| Edit_update_delete | profil |
 | ![Edit_update_delete](edit_update_delete.jpeg) |![profil](profil.jpeg) | 
 
 ## Cara Menjalankan Aplikasi
